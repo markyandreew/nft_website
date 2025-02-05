@@ -304,4 +304,18 @@ h2.separator {
   margin-top: 8px;
 }
 
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 100px 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer h3 {
+  font-size: 48px;
+}
+
+
 
